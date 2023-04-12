@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nikshit Chauhan
-- 👀 I’m interested in Software Engineer/Android Developer Roles.
-- 🌱 My current tech stack consist of Java, Kotlin, MySQL, Data Structures and Algo(JAVA).
-- 🌱 I’m currently learning Android Development using Kotlin in Android Studio.
-- 💞️ I’m looking to collaborate on Android Development related roles.
+- 👀 I’m interested in Software Engineer/Flutter Developer Roles.
+- 🌱 My current tech stack consist of Java, Flutter, MySQL, Data Structures and Algo(JAVA).
+- 🌱 I’m currently learning Flutter for iOS/Android, Web applications.
+- 💞️ I’m looking to collaborate on Flutter Development related roles.
 - 📫 How to reach me https://linktr.ee/nikshit_chauhan
 
 <!---
