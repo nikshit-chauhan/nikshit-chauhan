@@ -1,7 +1,7 @@
 # Hi There, I'm Nikshit Chauhan! 👋🚀
 
 ## Who Am I? 🌟
-Imagine a software engineer and Flutter enthusiast who’s on a mission to craft seamless digital experiences for iOS/Android and the web. That's me! With a toolbox filled with *Java, Flutter, MySQL, and a secret sauce of **Data Structures & Algorithms*, I'm geared up to transform ideas into reality.
+Imagine a software engineer and Flutter enthusiast who’s on a mission to craft seamless digital experiences for iOS/Android and the web. That's me! With a toolbox filled with **Java, Dart, Flutter, Go, MySQL, PostgreSQL**, and a secret sauce of **Data Structures & Algorithms**, I'm geared up to transform ideas into reality.
 
 - 🌱 I’m on a quest to master *Flutter for iOS/Android & Web applications*.
 - 💞️ Looking to team up on *Flutter Development projects* that are set to revolutionize the user experience.
