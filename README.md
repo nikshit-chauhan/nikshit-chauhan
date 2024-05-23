@@ -17,7 +17,7 @@ Imagine a software engineer and Flutter enthusiast who’s on a mission to craft
 
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-39E09B?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/nikshit_chauhan)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/nikshit-chauhan)
-
+[![Website Badge](https://img.shields.io/badge/-nikshitchauhan.me-4285F4?style=flat&logo=Google-Chrome&logoColor=white)](https://nikshitchauhan.me)
 ## My GitHub Trophies 🏆
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nikshit-chauhan&theme=nord&column=3)
